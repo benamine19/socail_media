@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.containerr {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.containerr::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+.gg{
+   
+        font-size: 8px/* 12px */;
+        line-height: 8px/* 16px */;
+    
+}
