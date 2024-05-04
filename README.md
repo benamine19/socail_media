@@ -17,23 +17,4 @@ Welcome to our Social Media Platform project! This platform is built using React
   - Redux: State management library for managing application state.
   - WebSocket: Real-time communication protocol for chat functionality.
 
-- **Backend**:
-  - Node.js: JavaScript runtime for building server-side applications.
-  - Express.js: Web framework for Node.js.
-  - MongoDB: NoSQL database for storing user data and posts.
-
-## Installation Guide
-
-Follow these steps to set up the Social Media Platform on your local machine:
-
-### Prerequisites
-
-- Node.js (version 12.x or higher)
-- npm (Node.js package manager)
-
-### Installation
-
-1. **Clone the Repository**
-
-   ```bash
 
